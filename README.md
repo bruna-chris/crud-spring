@@ -1,9 +1,6 @@
 # crud-spring
 CRUD em Spring Boot
 
-
- Spring CRUD
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente de desenvolvimento:
